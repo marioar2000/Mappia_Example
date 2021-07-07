@@ -135,13 +135,13 @@
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 			<CustomLayer>
-				<Name>GH:rois32719</Name>
-				<Title>rois32719</Title>
+				<Name>GH:puntos_interes</Name>
+				<Title>puntos_interes</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 			<CustomLayer>
-				<Name>GH:puntos_interes</Name>
-				<Title>puntos_interes</Title>
+				<Name>GH:rois32719</Name>
+				<Title>rois32719</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 		</VendorSpecificCapabilities>
